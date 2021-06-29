@@ -57,8 +57,9 @@
                             <artifactId>myServer</artifactId>
                             <version>1.0</version>
                             <packaging>zip</packaging>
-                      </configuration>
-                  </execution>
+                        </configuration>
+                    <execution>
+                </executions>
             </plugin>
             <!-- Enable liberty-maven plugin -->
             <plugin>
